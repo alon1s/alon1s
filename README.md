@@ -24,3 +24,4 @@ I am a Practical Software Engineering graduate with a strong focus on software d
 ## 📈 Connect with Me
 
 - **GitHub:** [alon1s](https://github.com/alon1s)
+- **My Projects:** (https://github.com/alon1s?tab=repositories)

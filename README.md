@@ -6,8 +6,8 @@ I am a Practical Software Engineering graduate with a strong focus on software d
 
 ## 💻 Tech Stack & Tools
 
-- **Programming Languages:** Java, Python, C#
-- **Web & Frontend:** React, Streamlit
+- **Programming Languages:** Java, Python, C#, C, C++, SQL
+- **Web & Frontend:** React, JavaScript, Typescript, HTML, 
 - **Machine Learning & AI:** Neural Autoencoders, Data Stream Processing, Model Integration
 - **Development Tools:** Git, Android Studio, Google AI Studio
 

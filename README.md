@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alon Soae 👋
 
-<!--
-**alon1s/alon1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Practical Software Engineering graduate with a strong focus on software development, computer science principles, and machine learning. I enjoy designing and building data-driven applications that integrate AI to solve complex technical challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Tools
+
+- **Programming Languages:** Java, Python, C#
+- **Web & Frontend:** React, Streamlit
+- **Machine Learning & AI:** Neural Autoencoders, Data Stream Processing, Model Integration
+- **Development Tools:** Git, Android Studio, Google AI Studio
+
+---
+
+## 🚀 Featured Projects
+
+### **AutoKLV**
+* **Overview:** An engineering project focused on advanced telemetry data analysis.
+* **Core Features:** Decodes Key-Length-Value (KLV) data streams and implements a neural autoencoder model for automated anomaly detection.
+
+---
+
+## 📈 Connect with Me
+
+- **GitHub:** [alon1s](https://github.com/alon1s)
